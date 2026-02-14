@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+
+# Streamlit secrets
+.steamingSecrets.toml
+
+# IDE files
+*.swp
+*.sublime-workspace
+*.sublime-project
+*.idea/
